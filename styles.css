@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+}
+h1 {
+	font-family: 'Anton', sans-serif;
+	font-size: 10rem;
+	margin: 10% 5% 5%;
+	padding: 30pt;
+	background-color: lightblue;
+	color: white;
+	border-radius: 50pt;
+	box-shadow: 50pt;
+}
+
+button {
+	font-family: 'Lato', sans-serif;
+	padding: 1em;
+	margin: 5%;
+	font-size: 2rem;
+	color: grey;
+	background-color: lightblue;
+	border-radius: 20pt;
+}
